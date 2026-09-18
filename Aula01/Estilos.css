@@ -1,0 +1,42 @@
+body
+{
+    margin: 0; padding: 0;
+    background-color: beige;
+    font-family: Arial, sans-serif; 
+}
+h1
+{
+    background-color: darkturquoise;
+    color:whitesmoke ;
+    margin: 10px;
+    padding: 30px;
+    text-align: center;
+}
+div
+{
+    border: 1px solid gray;
+    margin: 30px;
+    padding: 10px;
+}
+h3
+{
+    color: crimson;
+    margin-bottom: 30px;
+    margin-top: 0;
+}
+.azul
+{
+    color: blue;
+}
+.negrito
+{
+    font-weight: bold;
+}
+.italico
+{
+    font-style: italic;
+}
+.sublinhado
+{
+    text-decoration: underline;
+}
